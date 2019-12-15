@@ -1,0 +1,4 @@
+express viene con su propio logger: express.logger(), pero hay que instalarlo por separafo
+express usa cookies para las sessiones.
+usar https://randomkeygen.com/
+para generar random keys
